@@ -24,4 +24,4 @@ QDSP-0408Cは時計用に真ん中にコロン用のLEDあり、
 LEDを実装してください。  
   
 QDSP-0408D
-<img src="attach:QDSP-0408D_Common.PNG">
+![alt](QDSP-0408D_Common.PNG)
