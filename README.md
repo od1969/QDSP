@@ -29,5 +29,5 @@ LEDを実装してください。
 ■QDSP-0408D コモンPAD  
 ![alt](QDSP-0408D_Common.PNG)
   
-■QDSP-0408D コモンPAD  
+■QDSP-0408C コモンPAD  
 ![alt](QDSP-0408C_Common.PNG)
